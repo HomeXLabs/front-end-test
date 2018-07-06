@@ -1,0 +1,1 @@
+import getFilteredUsers from '../server'
