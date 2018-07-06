@@ -8,8 +8,6 @@ You will be given a "mock server" (aka a JS file with some functions) that will 
 
 In the **Guidelines** section you will see some rules around what you can/cannot use, and what the expectations are for the final product.
 
-You can view an example of what we'd like you to build (built following the specifications of this test) [here]().
-
 If you'd like to view more examples, you can view the **References** section down below.
 
 ## The Setup
@@ -46,3 +44,7 @@ To submit the test, ZIP up your project (including this README) and email it to 
 ### References
 
 Here are some other components/libraries that have the same/similar functionality to what you are expected to build, feel free to take a look at them to see what we have in mind, but remember, you cannot use them as part of your submission.
+
+[React Select](http://jedwatson.github.io/react-select/) (Github Users Example)
+
+[JQuery UI Autocomplete](https://jqueryui.com/autocomplete/)
