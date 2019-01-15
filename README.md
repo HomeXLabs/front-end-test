@@ -4,7 +4,7 @@ Hey! Seems you are interested in working on front-end at HomeX. This is our litt
 
 ## The Test
 
-You will be given a "mock server" (aka a JS file with some functions) that will give you some mock data. From this, you will create a dropdown that will query this server, and display the results to the user. You will also create the filter function that is used on the server side. Get as creative or as simple as you want this this, just keep in mind, the "mock server" has the ability to return anywhere from 1 user to Infinity users, so mess around with that and make sure that with different data counts, the UI still feels fast and functions properly.
+You will be given a "mock server" (aka a JS file with some functions) that will give you some mock data. From this, you will create a dropdown that will query this server, and display the results to the user. You will also create the filter function that is used on the server side. Get as creative or as simple as you want, just keep in mind, the "mock server" has the ability to return anywhere from 1 user to Infinity users, so mess around with that and make sure that with different data counts, the UI still feels fast and functions properly.
 
 In the **Guidelines** section you will see some rules around what you can/cannot use, and what the expectations are for the final product.
 
